@@ -15,7 +15,7 @@ While social dancing do your best to avoid colliding or interfering with other d
 
 # Breaches
 
-Any individual found to be breaching the code of conduct at an event may expect (depending on the severity): 
+Any individual breaching this code of conduct at an event may expect (depending on the severity): 
 
 * A verbal warning from an organiser, advising them to change their behaviour
 * A formal warning from an organiser, stating that any further breaches (no matter how trivial) will be grounds for further action
