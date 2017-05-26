@@ -14,7 +14,7 @@ Unsafe behaviour includes dipping too deeply or without permission; yanking your
 While social dancing do your best to avoid colliding or interfering with other dancers. Apologise if you bump into someone and do not continue dancing until you make sure they are all right. 
 
 ## Issue Reporting
-Here's what you can expect if you bring an issue to the staff; If you do not initially want action taken, but later change your mind, do not hesitate to let us know. 
+If you experience or witness a breach of this code of conduct, the following is what you can expect when you notify an organiser. If you do not initially want action taken, but later change your mind, do not hesitate to contact an organiser. 
 
 * An organiser will talk you privately in confidence.
 * The organiser will then document the issue.
