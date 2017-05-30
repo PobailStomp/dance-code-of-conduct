@@ -13,16 +13,25 @@ Unsafe behaviour includes dipping too deeply or without permission; yanking your
 
 While social dancing do your best to avoid colliding or interfering with other dancers. Apologise if you bump into someone and do not continue dancing until you make sure they are all right. 
 
+# Breaches
+
+Any individual breaching this code of conduct at an event may expect (depending on the severity): 
+
+* A verbal warning from an organiser, advising them to change their behaviour
+* A formal warning from an organiser, stating that any further breaches (no matter how trivial) will be grounds for further action
+* Ejection from an individual event (e.g. dance, class etc)
+* Ejection from an overall event (e.g. dance weekend)
+* Banning from this and all future events run by the organisers
+* Reporting of their actions to the legal authorities
+
+Any action taken is at the discretion of the event organisers.
+
 ## Issue Reporting
 Here's what you can expect if you bring an issue to the staff; If you do not initially want action taken, but later change your mind, do not hesitate to let us know. 
 
 * An organiser will talk you privately in confidence.
 * The organiser will then document the issue.
 * They will then ask you how you would like the situation to be handled.
-* The individuals involved can be handled the following ways:
-    * Observed but not initially approached
-    * Spoken to about their behaviour 
-    * Asked to leave the event
-    * Reported to the legal authorities
+* Action will be taken against the individual(s) involved, in line with those listed in the "Breaches" section.
 
 We appreciate your assistance in keeping our events as safe as possible for everyone.
