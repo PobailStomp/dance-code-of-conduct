@@ -27,7 +27,7 @@ Any individual breaching this code of conduct at an event may expect (depending 
 Any action taken is at the discretion of the event organisers.
 
 ## Issue Reporting
-Here's what you can expect if you bring an issue to the staff; If you do not initially want action taken, but later change your mind, do not hesitate to let us know. 
+If you experience or witness a breach of this code of conduct, the following is what you can expect when you notify an organiser. If you do not initially want action taken, but later change your mind, do not hesitate to contact an organiser. 
 
 * An organiser will talk you privately in confidence.
 * The organiser will then document the issue.
