@@ -9,9 +9,9 @@ We take zero tolerance to harassment in any form: individuals violating these ru
 Harassment includes deliberate intimidation, stalking, harassing or intrusive 
 photography or video recording, inappropriate physical contact, unsolicited affection, sexual images in public spaces, and unwelcome and unreciprocated sexual attention. When asked to stop any harassing behaviour, participants are expected to comply immediately.
 
-Unsafe behaviour includes dipping too deeply or without permission; yanking your partner with needlessly forceful movement, excessive use of alcohol, and any form of aerials/air steps. It is perfectly acceptable to say no to a dance without reason.
+Unsafe behaviour includes, but is not limited to, dipping too deeply or without permission; forceful, or "yanking" movements that could cause injury to your partner, excessive use of alcohol, and any form of aerials/air steps without explicit consent, or on a social floor (i.e. outwith a performance or jam circle). It is perfectly acceptable to say no to a dance without reason.
 
-While social dancing do your best to avoid colliding or interfering with other dancers. Apologise if you bump into someone and do not continue dancing until you make sure they are all right. 
+We expect all dancers to do their best to avoid collisions on the dance floor, to apologise if and when such collisions occur, and to ensure that all dancers are all right before continuing dancing. Additionally we expect that dancers to not interfere with others, expect when given consent (e.g. in a steal or swapping dance). 
 
 # Breaches
 
