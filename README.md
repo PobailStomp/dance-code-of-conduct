@@ -9,7 +9,7 @@ Our event is a social and learning experience where we want people to feel comfo
 We take zero tolerance to harassment in any form: individuals violating these rules may be warned or expelled from the venue at the discretion of the organisers. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact any of the event organisers immediately. Ask the sign-in/registration desk if you need assistance locating an organiser.
 
 Harassment includes deliberate intimidation, stalking, harassing or intrusive 
-photography or video recording, inappropriate physical contact, unsolicited affection, sexual images in public spaces, and unwelcome and unreciprocated sexual attention. When asked to stop any harassing behaviour, participants are expected to comply immediately.
+photography or videography, inappropriate physical contact (including unsolicited affection), sexual imagery in public spaces, and unwelcome and unreciprocated sexual attention. When asked to stop any harassing behaviour, participants are expected to comply immediately.
 
 Unsafe behaviour includes, but is not limited to, dipping too deeply or without permission; forceful, or "yanking" movements that could cause injury to your partner, excessive use of alcohol, and any form of aerials/air steps without explicit consent, or on a social floor (i.e. outside of a performance or jam circle). It is perfectly acceptable to say no to a dance without reason.
 
