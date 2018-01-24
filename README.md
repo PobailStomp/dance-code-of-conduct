@@ -3,8 +3,10 @@ This repository contains the text for an open source code of conduct intended fo
 
 As a result, readers are encouraged to create issues or pull requests for any part of the code they think could be improved. The code may need to be slightly modified from place to place, as some countries (or states) may have mandatory reporting for event organisers or venues if a crime is committed - if in doubt, check with your local law enforcement.
 
+See [here](https://github.com/ADubhlaoich/dance-code-of-conduct/blob/master/IMPLEMENTATION.md) for a list of events and organisers that have adopted the code.
+
 # Code of Conduct
-Our event is a social and learning experience where we want people to feel comfortable, and we aim to provide a harassment-free and safe social dance experience for everyone regardless of dance ability or background, gender, gender identity and expression, sexual orientation, physical ability, appearance, body size, race, age, religion or any other characteristics.
+Our events are social and learning experiences where we want people to feel comfortable, and we aim to provide a harassment-free and safe social dance experience for everyone regardless of dance ability or background, gender, gender identity and expression, sexual orientation, physical ability, appearance, body size, race, age, religion or any other characteristic.
 
 We take zero tolerance to harassment in any form: individuals violating these rules may be warned or expelled from the venue at the discretion of the organisers. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact any of the event organisers immediately. Ask the sign-in/registration desk if you need assistance locating an organiser.
 
