@@ -3,4 +3,4 @@ The following is a list of events and or organisers that use or have used this [
 
 * [Balbodocious Dublin](https://www.balbodaciousdublin.com/)
 * [Frankie in Dublin](http://frankieindublin.com/)
-
+* [Misfit Rhythms](https://www.facebook.com/misfitrhythms/)
