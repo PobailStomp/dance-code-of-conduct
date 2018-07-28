@@ -1,7 +1,5 @@
 # Implementation
-The following is a list of events and or organisers that use or have used this [code of conduct](https://github.com/ADubhlaoich/dance-code-of-conduct/blob/master/README.md).
-
-The easiest place to display a code of conduct is on its own page of website, though an alternate option is as a note on a facebook page, which has the added benefit of allowing people to comment on it and add questions.
+The following is a list of events and or organisers that use or have used this [code of conduct](https://github.com/ADubhlaoich/dance-code-of-conduct/blob/master/README.md). The best place to display it is on its own page of an organisation website, though an alternate option is as a note on a facebook page, which has the added benefit of allowing people to comment on it and add questions.
 
 * [Balbodocious Dublin](https://www.balbodaciousdublin.com/)
 * [Collegiate Shag Dublin](https://www.facebook.com/shagdublin/)
