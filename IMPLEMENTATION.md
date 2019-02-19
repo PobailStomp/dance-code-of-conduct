@@ -6,6 +6,7 @@ The following is a list of events and or organisers that use or have used this [
 * [Collegiate Shag Dublin](https://www.facebook.com/shagdublin/)
 * [Frankie in Dublin](http://frankieindublin.com/)
 * [Misfit Rhythms](https://www.facebook.com/misfitrhythms/)
+* [Rebel Heart Blues](https://www.facebook.com/rebelblues.ie/)
 * [Shaganigans](https://www.facebook.com/Shaganigans/)
 * [SociaBal](https://www.facebook.com/SociaBalDublin/)
 * [The Balboa Renaissance](https://www.balboarenaissance.ie/)
