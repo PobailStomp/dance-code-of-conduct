@@ -16,6 +16,7 @@ The following is a list of events and or organisers that use or have used this c
 * [Shaganigans](https://www.facebook.com/Shaganigans/)
 * [SociaBal](https://www.facebook.com/SociaBalDublin/)
 * [The Balboa Renaissance](https://www.balboarenaissance.ie/)
+* [Full Swing Dublin](https://www.fullswing.ie/)
 
 
 # Credits
