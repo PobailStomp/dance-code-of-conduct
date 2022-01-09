@@ -7,12 +7,9 @@ As a result, readers are encouraged to create issues or pull requests for any pa
 The following is a list of events and or organisers that use or have used this code of conduct. The best place to display it is as a laminated printout at the event registration/sign-in desk, though codes of conduct are commonly given their own page on an organisations' website. An alternate option is as a note on a facebook page, which has the added benefit of allowing people to comment on it and ask questions.
 
 * [Balbodocious Dublin](https://www.balbodaciousdublin.com/)
-* [Boogie Beat Swing](http://swingdancedublin.ie/)
 * [Collegiate Shag Dublin](https://www.facebook.com/shagdublin/)
 * [Fáilte Hot Club](https://www.facebook.com/failtehotclub/)
 * [Full Swing Dublin](https://www.fullswing.ie/)
-* [Frankie in Dublin](http://frankieindublin.com/)
-* [Misfit Rhythms](https://www.facebook.com/misfitrhythms/)
 * [Pobail Stomp](https://www.facebook.com/pobailstomp/)
 * [Rebel Heart Blues](https://www.facebook.com/rebelblues.ie/)
 * [Shaganigans](https://www.facebook.com/Shaganigans/)
@@ -25,3 +22,12 @@ The following is a list of events and or organisers that use or have used this c
 
 **Italian**
 * [Stefano Dylan Caltagirone](stefanodylan@libero.it), translation and localization
+
+# Archive
+This is a list of events or organisations that no longer run, but previously
+used the Code of Conduct. Although they aren't active anymore, their use of the
+Code of Conduct helped normalise the adoption in their local community.
+
+* Boogie Beat Swing
+* Frankie in Dublin
+* Misfit Rhythms
