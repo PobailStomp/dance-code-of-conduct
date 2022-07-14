@@ -12,10 +12,11 @@ The following is a list of events and or organisers that currently use code of c
 
 # Credits
 **English**
-* [Alan Dooley](https://www.adubhlaoich.ie/), primary text
+* [Alan Dooley](https://www.adubhlaoich.ie/), primary text, updates
 
 **Italian**
 * [Stefano Dylan Caltagirone](stefanodylan@libero.it), translation and localization
+* Elisa Di Franco, updates
 
 **Spanish**
 * Gabriel Rodríguez, translation and localization
@@ -23,17 +24,16 @@ The following is a list of events and or organisers that currently use code of c
 # Changelog
 ## 2022-07-13 (English)
 * Replaced "dance ability or background" with "dance experience".
-    * Experience covers both descriptions; this shortens the text a little.
 * Added "includes, but is not limited to" to the harassment definition.
-    * Matches the unsafe behaviour definition, broadens the catch-all nature.
 * Replaced "harassing" with "unwanted" in reference to photography.
-    * The entire section is attempting to define what harassment is; "unwanted" covers the most common issue.
 * Replaced "imagery" with "behaviour" in reference to sexual acts.
-    * This phrasing was always considered awkward, and did not translate well to other languages.
 * Removed "or 'yanking'".
-    * Redundant with the prior 'forceful' description.
-* Rephrased "Issue Reporting" description
-    * Emphasizes that you can and should say something in the moment, and shifts the "following" text to fit the flow.
+* Rephrased "Issue Reporting" description.
+
+# 2022-07-14 (Italian)
+* Updated to remain in parity with English variant.
+* Minor phrasing changes.
+* Minor punctuation fixes.
 
 # Archive
 This is a list of events or organisations that no longer run, but previously
