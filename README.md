@@ -1,11 +1,19 @@
-# Information
-This repository contains the text for an open source code of conduct intended for partner dance events, and was originally adapted from the code of conduct for [Fair City Blues](http://faircityblues.com/code.html), which was in turn inspired by other events. The intent behind this project is to create a code of conduct anyone can use for their dance events, with multiple people collaborating on a single document as a unified front instead of having multiple variations across scenes.
+# Introduction
+This is an open source code of conduct intended for partnered dance events.  
 
-As a result, readers are encouraged to create issues or pull requests for any part of the code they think could be improved. The code may need to be slightly modified from place to place, as some countries (or states) may have mandatory reporting for event organisers or venues if a crime is committed - if in doubt, check with your local law enforcement.
+It was originally adapted from the code of conduct for [Fair City Blues](http://faircityblues.com/code.html), which was in turn inspired by other events. 
 
-* [English]
-* [Italian]
-* [Spanish]
+* [English](/pdf/2023-coc-english.pdf)
+* [Italian](/pdf/2023-coc-italian.pdf)
+* [Spanish](/pdf/2023-coc-spanish.pdf)
+
+The intent for for the project is to create a code of conduct anyone can use for their dance events, with multiple collaborators working to improve a single document as a unified front for a local dance scene.
+
+If you have improvements, you can file [issues through GitHub](https://github.com/PobailStomp/dance-code-of-conduct/issues).
+
+The code may need to be modified from scene to scene, as some locales may have mandatory reporting for event organisers or venues if a crime is committed.
+
+If in doubt, check with your local law enforcement.
 
 # Adopters
 The following is a list of events and organisers that currently use this code of conduct. 
@@ -22,6 +30,7 @@ Codes of conduct are commonly given their own page on an organisations' website,
 # Credits
 **English**
 * [Alan Dooley](https://www.adubhlaoich.ie/), primary text and updates
+* Adam Harries, updates
 
 **Italian**
 * [Stefano Dylan Caltagirone](stefanodylan@libero.it), translation and localization
