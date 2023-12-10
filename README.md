@@ -33,7 +33,7 @@ Codes of conduct are commonly given their own page on an organisations' website,
 * Adam Harries, updates
 
 **Italian**
-* [Stefano Dylan Caltagirone](stefanodylan@libero.it), translation and localization
+* [Stefano Dylan Caltagirone](mailto:stefanodylan@libero.it), translation and localization
 * Elisa Di Franco, updates
 
 **Spanish**
@@ -54,9 +54,9 @@ Codes of conduct are commonly given their own page on an organisations' website,
 * Rephrased "Issue Reporting" description.
 
 # Archive
-These events or organisations no longer run, but previously used the Code of Conduct. 
+These events or organisations no longer run, but previously used this code of conduct
 
-Although they aren't active anymore, their use of the code of conduct helped normalise the adoption in our local community.
+Although they aren't active anymore, their use of the code of conduct helped normalise the adoption in their local communities.
 
 * Balbodocious Dublin
 * Boogie Beat Swing
