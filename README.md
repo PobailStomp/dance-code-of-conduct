@@ -55,16 +55,14 @@ Codes of conduct are commonly given their own page on an organisations' website,
 
 # Archive
 
-These events or organisations no longer use this code of conduct, commonly as a result of no longer being operational
+These events or organisations no longer use this code of conduct, commonly as a result of no longer being operational. Although they aren't active anymore, their use of the code of conduct helped normalise the adoption in their local communities.
 
-Although they aren't active anymore, their use of the code of conduct helped normalise the adoption in their local communities.
-
-* Balbodocious Dublin
+* [Balbodocious Dublin](https://www.facebook.com/BalbodaciousDublin)
 * Boogie Beat Swing
-* Collegiate Shag Dublin
-* Frankie in Dublin
+* [Collegiate Shag Dublin](https://www.facebook.com/shagdublin)
+* [Frankie in Dublin](https://www.facebook.com/frankieindublin)
 * Misfit Rhythms
 * [Pobail Stomp](https://www.facebook.com/pobailstomp/)
-* Shaganigans
+* [Shaganigans](https://www.facebook.com/Shaganigans)
 * SociaBal
 * The Balboa Renaissance
