@@ -18,9 +18,9 @@ If in doubt, check with your local law enforcement.
 # Adopters
 The following is a list of events and organisers that currently use this code of conduct. 
 
+* [Balboa Club](https://balboaclub.ie/)
 * [Fáilte Swing](https://www.facebook.com/failteswing)
 * [Full Swing](https://www.fullswing.ie/)
-* [Pobail Stomp](https://www.facebook.com/pobailstomp/)
 * [Rebel Blues](https://www.facebook.com/rebelblues.ie)
 
 If you would like to adopt a code of conduct, the best place to display one is at your events' sign-in desks.
@@ -54,7 +54,8 @@ Codes of conduct are commonly given their own page on an organisations' website,
 * Rephrased "Issue Reporting" description.
 
 # Archive
-These events or organisations no longer run, but previously used this code of conduct
+
+These events or organisations no longer use this code of conduct, commonly as a result of no longer being operational
 
 Although they aren't active anymore, their use of the code of conduct helped normalise the adoption in their local communities.
 
@@ -63,6 +64,7 @@ Although they aren't active anymore, their use of the code of conduct helped nor
 * Collegiate Shag Dublin
 * Frankie in Dublin
 * Misfit Rhythms
+* [Pobail Stomp](https://www.facebook.com/pobailstomp/)
 * Shaganigans
 * SociaBal
 * The Balboa Renaissance
